@@ -1,0 +1,41 @@
+{
+  "name": "Riddhiman Ghosh",
+  "firstName": "Riddhiman",
+  "lastName": "Ghosh",
+  "bio": "I build things that lives on Internet.",
+  "githubUsername": "RIJU-2002",
+  "instagramUsername": "ghosh.riddhiman",
+  "linkdinUsername": "riddhiman-ghosh-732436197",
+  "twitterUsername": "manrid156",
+  "telegram": "t.me/riddhiman_ghosh",
+  "facebookUsername": "yayadip.toure",
+  "myimage":"/static/myimage.jpeg",
+  "linktree": "https://linktr.ee/zzcwc",
+  "mail": "thisisrghosh@gmail.com",
+  "mail2": "rijughoshroll37@gmail.com",
+  "MyPdf":"/static/RijuResume.pdf",
+  "MyLogo":"/static/logo.png",
+  "demoProjects": [
+    {
+      "id": 1,
+      "image": "/static/portfolio.jpeg",
+      "title": "myPorfolio",
+      "github": "https://github.com/RIJU-2002/"
+    },
+    {
+      "id": 2,
+      "image": "/static/connect.jpeg",
+      "title": "Connect(Webapp)",
+      "github": "https://github.com/RIJU-2002/",
+      "demo": ""
+    },
+    {
+      "id": 3,
+      "image": "/static/Siksha Shakti.jpeg",
+      "title": "Siksha Shakti(Webapp)",
+      "github": "https://github.com/RIJU-2002/",
+      "demo": ""
+    }
+    
+  ]
+}
