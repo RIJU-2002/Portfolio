@@ -38,17 +38,17 @@ const About = () => {
 
         <div className="about_content">
           <div className="about_card">
-            <article className="about_card-content">
+            <a href={"#experience"} className="about_card-content">
               <FaAward className="about_icons" />
               <h5>Experience</h5>
               <small>Curently studying</small>
-            </article>
+            </a>
 
-            <article className="about_card-content">
+            <a href={"#projects"} className="about_card-content">
               <BsFolder className="about_icons" />
               <h5>Projects</h5>
               <small>{projectNumber}+</small>
-            </article>
+            </a>
           </div>
           <p>
             Hello! My name is <span>Riddhiman Ghosh</span> and I enjoy creating
